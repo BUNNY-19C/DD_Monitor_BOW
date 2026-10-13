@@ -1,0 +1,9 @@
+# Local runtime and builds
+.runtime/
+bin/
+obj/
+
+# Editors
+.vscode/
+.idea/
+.DS_Store

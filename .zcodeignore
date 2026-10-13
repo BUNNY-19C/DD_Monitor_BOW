@@ -1,0 +1,7 @@
+# Project runtime and build outputs
+.git/
+.runtime/
+bin/
+obj/
+.vscode/
+.idea/
